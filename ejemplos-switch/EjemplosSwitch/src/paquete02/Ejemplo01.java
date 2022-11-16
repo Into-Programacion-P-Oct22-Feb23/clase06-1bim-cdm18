@@ -22,10 +22,10 @@ public class Ejemplo01 {
         int valor2;
         int resultado = 0;
         // 6.  Escribir "Ingrese el primer valor la operación"
-        System.out.println("Ingrese el primer valor la operación");
+        System.out.println("Ingrese el primer valor de la operación");
         // 7.  Leer valor1
         valor1 = entrada.nextInt();
-        System.out.println("Ingrese el segundo valor la operación");
+        System.out.println("Ingrese el segundo valor de la operación");
         valor2 = entrada.nextInt();
 
         System.out.println("Selecciones la operación que desea realizar\n"

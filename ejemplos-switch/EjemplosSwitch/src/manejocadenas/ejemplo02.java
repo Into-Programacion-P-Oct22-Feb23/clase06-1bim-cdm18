@@ -5,19 +5,20 @@
  */
 package manejocadenas;
 
-import java.util.Locale;
-
 /**
  *
- * @author reroes
+ * @author SALA I
  */
-public class EjemploCadenas {
+public class ejemplo02 {
     public static void main(String[] args) {
-        String ciudad = "loJa";
-        ciudad = ciudad.toLowerCase();
-                
-        System.out.printf("%s\n", ciudad.toLowerCase());
-        System.out.printf("%s\n", ciudad.toUpperCase());
+        String pais;
+        pais = "Camboya";
+        char letra =  pais.charAt(3);
+        System.out.printf("%s\n",letra);
+        
+        
+        
+        
         
         
     }
